@@ -21,7 +21,7 @@ for i in range(cantidadbultos):
             elif 6 <= pesobulto <= 10:
                 totalnormal += valorpesonormal
                 contadorbultosnormales += 1 
-                break 
+                break
             else:
                 print("Peso ingresado incorrecto. Debe estar entre 1 y 10kg.")
                 
